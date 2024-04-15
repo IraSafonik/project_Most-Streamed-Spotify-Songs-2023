@@ -42,8 +42,16 @@ This dataset contains a comprehensive list of the most famous songs of 2023 as l
 # Overview
 
 ![-🌍 Regional Variations-purple](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/faf64499-84e2-4c9a-ba1d-efc23409daa8)
-![-📊 Data Collection-blue](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/99c2d3ea-7704-4cf4-bf40-5cf23ec5acdd)
-![-📁 Playlist Dynamics-red](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/a20f3b02-29d5-4a36-82e2-f8e1eb351ac7)
-![-👩‍🎤 Artist Highlights-orange](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/e5d45641-928a-4d25-b294-94cea9c67786)
-![-🎶 Genre Trends-green](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/8970fe2c-329b-4f2f-aca4-11fadbb76df6)
+Gathering and processing Spotify data for trends analysis
 
+![-📊 Data Collection-blue](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/99c2d3ea-7704-4cf4-bf40-5cf23ec5acdd)
+Analyzing the popularity and shifts in music genres
+
+![-📁 Playlist Dynamics-red](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/a20f3b02-29d5-4a36-82e2-f8e1eb351ac7)
+Spotlight on trending and emerging artists
+
+![-👩‍🎤 Artist Highlights-orange](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/e5d45641-928a-4d25-b294-94cea9c67786)
+Examining changes in playlist creation and curation
+
+![-🎶 Genre Trends-green](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/8970fe2c-329b-4f2f-aca4-11fadbb76df6)
+Identifying regional variations in music preferences
