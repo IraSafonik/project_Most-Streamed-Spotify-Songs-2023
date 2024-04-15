@@ -2,6 +2,9 @@
 kaggle
 ![Unknown](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/1233206f-8365-4e98-bf62-d6ad9213d62c)
 
+# About Spotify
+Spotify is a Swedish music streaming and media services provider where users can listen to their Favourite Artists, Songs and Albums.Founded in 2006, the company mainly provides an audio streaming platform, the "Spotify" platform, that offers DRM-restricted music and podcasts from record labels and media companies. As a freemium service, basic features are free with advertisements or automatic music videos. Additional features, such as offline listening and commercial-free listening, are offered via paid subscriptions.
+
 # About Dataset
 
 ## Description :
