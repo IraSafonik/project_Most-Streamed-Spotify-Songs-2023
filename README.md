@@ -1,5 +1,4 @@
 # Project: Most Streamed Spotify Songs 2023 🎵
-project is in the process...
 ![Unknown](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/1233206f-8365-4e98-bf62-d6ad9213d62c)
 
 # About Spotify
@@ -59,3 +58,15 @@ Examining changes in playlist creation and curation
 
 ![-🎶 Genre Trends-green](https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/8970fe2c-329b-4f2f-aca4-11fadbb76df6)
 Identifying regional variations in music preferences
+
+<img width="480" alt="Знімок екрана 2024-05-16 о 17 59 08" src="https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/f8f4e041-e3d9-4cd8-8fad-042e381a3c22">
+<img width="697" alt="Знімок екрана 2024-05-16 о 18 01 23" src="https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/ddff8404-1d10-4290-9016-750622c29473">
+
+<img width="971" alt="Знімок екрана 2024-05-16 о 17 54 35" src="https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/bf100af7-f57d-4ce5-8f5e-1d36839f6633">
+
+<img width="969" alt="Знімок екрана 2024-05-16 о 17 57 56" src="https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/8f56918f-d3bd-40a4-981c-64b7834a01e3">
+
+<img width="971" alt="Знімок екрана 2024-05-16 о 17 59 30" src="https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/3bfc0b5d-48c0-498e-8905-7e791a4107a3">
+
+<img width="972" alt="Знімок екрана 2024-05-16 о 17 55 01" src="https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/e027b702-3e53-4603-9556-8ddc1e2cb81d">
+
