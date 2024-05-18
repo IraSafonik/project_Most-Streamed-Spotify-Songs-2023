@@ -124,62 +124,16 @@ Top Months: The distribution of releases by month indicates seasonal trends in m
 
 #### Insights: 
 #### Energy Percentage Trends:
-
-##### Artist Count: 1
-Count: 587
-Mean Energy Percentage: 62.12%
-Standard Deviation: 17.45
-Range: 9% to 97%
-Median (50th percentile): 63%
-
-##### Artist Count: 2
-Count: 254
-Mean Energy Percentage: 67.62%
-Standard Deviation: 14.46
-Range: 30% to 97%
-Median (50th percentile): 69%
-
-##### Artist Count: 3
-Count: 85
-Mean Energy Percentage: 67.96%
-Standard Deviation: 14.32
-Range: 25% to 93%
-Median (50th percentile): 68%
-
-##### Artist Count: 4
-Count: 15
-Mean Energy Percentage: 66.07%
-Standard Deviation: 15.47
-Range: 44% to 86%
-Median (50th percentile): 73%
-
-##### Artist Count: 5
-Count: 5
-Mean Energy Percentage: 71.80%
-Standard Deviation: 14.06
-Range: 51% to 87%
-Median (50th percentile): 72%
-
-##### Artist Count: 6
-Count: 3
-Mean Energy Percentage: 75.33%
-Standard Deviation: 4.16
-Range: 72% to 80%
-Median (50th percentile): 74%
-
-##### Artist Count: 7
-Count: 2
-Mean Energy Percentage: 60.00%
-Standard Deviation: 21.21
-Range: 45% to 75%
-Median (50th percentile): 60%
-
-##### Artist Count: 8
-Count: 2
-Mean Energy Percentage: 72.00%
-Standard Deviation: 5.66
-Range: 68% to 76%
-Median (50th percentile): 72%
+| Artist Count | Count | Mean Energy Percentage | Standard Deviation | Range     | Median (50th percentile) |
+|--------------|-------|------------------------|--------------------|-----------|---------------------------|
+| 1            | 587   | 62.12%                 | 17.45              | 9% to 97% | 63%                       |
+| 2            | 254   | 67.62%                 | 14.46              | 30% to 97%| 69%                       |
+| 3            | 85    | 67.96%                 | 14.32              | 25% to 93%| 68%                       |
+| 4            | 15    | 66.07%                 | 15.47              | 44% to 86%| 73%                       |
+| 5            | 5     | 71.80%                 | 14.06              | 51% to 87%| 72%                       |
+| 6            | 3     | 75.33%                 | 4.16               | 72% to 80%| 74%                       |
+| 7            | 2     | 60.00%                 | 21.21              | 45% to 75%| 60%                       |
+| 8            | 2     | 72.00%                 | 5.66               | 68% to 76%| 72%                       |
 
 Songs with a single artist have a lower average energy percentage (62.12%) compared to songs with multiple artists. This might indicate that solo performances tend to have more varied energy levels, possibly due to a broader range of musical styles.
 The energy percentage generally increases as the number of contributing artists increases, with a peak mean energy percentage of 75.33% for songs with six artists.
@@ -199,5 +153,33 @@ This indicates that collaborative songs tend to maintain a higher baseline energ
 #### Summary:
 The analysis reveals that songs with more contributing artists generally exhibit higher and more consistent energy percentages. Solo performances, while having a broader range of energy levels, tend to have a lower average energy. This could be due to the diverse nature of solo artists' music compared to the potentially more harmonized output of collaborative tracks. These insights can be valuable for understanding how the number of contributing artists influences the overall energy and consistency of popular songs.
 
+### Conclusions Based on Correlation Heatmap
 <img width="972" alt="Знімок екрана 2024-05-16 о 17 55 01" src="https://github.com/IraSafonik/project_Most-Streamed-Spotify-Songs-2023/assets/32171563/e027b702-3e53-4603-9556-8ddc1e2cb81d">
 
+#### Based on the correlation heatmap, the following conclusions can be drawn:
+- Some attributes have weak correlation: For example, artist_count does not exhibit significant correlation with most other features in the dataset, except for a weak correlation with danceability_% and valence_%.
+
+- Some attributes show moderate correlation: For instance, released_year demonstrates moderate correlation with some other attributes such as in_spotify_playlists, in_apple_playlists, and in_deezer_charts.
+
+- Some attributes exhibit strong correlation: For example, energy_% and valence_% show moderate correlation with each other, suggesting that energetic songs may have a more positive mood.
+
+# Summary 
+### Based on the analysis performed, several overarching conclusions can be drawn:
+
+#### Dataset Overview: 
+The dataset covers various music industry aspects comprehensively, including song features, artist details, release information, and platform presence.
+
+#### Key Players and Tracks: 
+Certain artists like Taylor Swift and The Weeknd, along with specific tracks such as "Daylight" and "Take My Breath," stand out due to their high frequency in the dataset. This indicates their significant influence and popularity during the analyzed period.
+
+#### Temporal Trends: 
+Recent years, notably 2023, see a substantial increase in song releases, reflecting a dynamic music scene during this period.
+
+#### Correlation Insights: 
+Correlation analysis reveals varying degrees of association between attributes, guiding the identification of influential factors driving overall trends.
+
+#### Analytical Potential: 
+The dataset offers ample opportunities for deeper exploration, such as genre preferences, regional variations, and the impact of song features on popularity.
+
+### In summary, 
+the numerical insights provide valuable guidance for strategic decision-making in the music industry and serve as a basis for further detailed analysis.
